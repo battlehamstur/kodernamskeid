@@ -12,4 +12,3 @@ while True:
         mc.events.clearAll()
 
     sleep(0.5)
-hello
