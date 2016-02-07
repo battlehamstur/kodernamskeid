@@ -1,7 +1,7 @@
 from mcpi.minecraft import Minecraft
 
 mc = Minecraft.create()
-nyr_stadur = mc.getBlock(80, 4, 40)
+nyr_stadur = mc.getBlock(80, 20, 40)
 
 if nyr_stadur == 1:
     mc.player.setPos(80, 20, 40)
